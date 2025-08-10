@@ -13,7 +13,8 @@
 
 ### 🔍 **Detailed Task Management**  
 - Click any task to open a **detailed modal** (full description + priority).  
-- Modal actions: **Edit** ✏️, **Delete** 🗑️, or **Cancel** ❌.  
+- Modal actions: **Add** ✏️, **Delete** 🗑️, or **Cancel** ❌.
+-  `localStorage` persistence.  
 
 ### 🌈 **Responsive Design**  
 - Fully mobile-friendly with **Tailwind CSS**.  
@@ -34,9 +35,7 @@ Organizing daily tasks with **zero fuss** and **maximum efficiency**.
 ---
 
 ## 🔮 Future Improvements  
-- `localStorage` persistence.  
 - Priority filters/search.  
-- Dark mode.  
 
 ---
 
