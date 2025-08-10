@@ -40,4 +40,4 @@ Organizing daily tasks with **zero fuss** and **maximum efficiency**.
 
 ---
 
-![Preview](https://via.placeholder.com/800x400?text=ToDo+App+Preview) *← Replace with actual screenshot*  
+![Preview](public/HomePage.png) 
